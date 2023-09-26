@@ -1,0 +1,11 @@
+{
+  "name": "cep-finder",
+  "version": "1.0.0",
+  "description": "Página para resgatar as informações de um cep.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "codeFumaça",
+  "license": "ISC"
+}
