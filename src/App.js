@@ -30,9 +30,10 @@ function App() {
 
       <div className="containerInput">
         <input
-          type="text"
+          type="number"
           placeholder="Digite o CEP"
           className="input"
+          maxLength={8}
           value={input}
           onChange={(event) => setInput(event.target.value)}
         />
